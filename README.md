@@ -9,6 +9,6 @@ We are not currently accepting applications, but we may do so in the future.
 ## Public resources
 
 - Best practices: [Open Source Guides](https://opensource.guide)
-- OSS data for research: [Open Source Survey](http://opensourcesurvey.org/2017/)
-- To help you get started as a contributor and convince your employers to participate in OSS: [Open Source Friday](https://opensourcefriday.com/)
+- OSS data for research: [Open Source Survey](http://opensourcesurvey.org/2020/)
+- To help you get started as a contributor and convince your employers to participate in OSS: "FrankOliver1"(https://Desireboy5049@outlook.com)"##########(frank oliver)####
 
